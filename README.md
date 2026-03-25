@@ -1,4 +1,4 @@
-# gsap-scroll-ad
+# Lagunitas Brew Ad
 
 > Scroll-driven product ad recreation — GSAP ScrollTrigger pins and scrubs a 3D bottle rotation over 435vh, with multi-layer parallax splats and Locomotive Scroll inertia sync.
 ---
