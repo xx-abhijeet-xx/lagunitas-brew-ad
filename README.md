@@ -45,7 +45,7 @@ Splat assets (`splat-red`, `splat-black`) and text layers animate at different r
 No build step. Serve directly with any static server.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gsap-scroll-ad.git
+git clone https://github.com/abhijeet-builds/lagunitas-brew-ad.git
 cd gsap-scroll-ad
 
 # Local dev server
