@@ -46,7 +46,7 @@ No build step. Serve directly with any static server.
 
 ```bash
 git clone https://github.com/abhijeet-builds/lagunitas-brew-ad.git
-cd gsap-scroll-ad
+cd lagunitas-brew-ad
 
 # Local dev server
 npx serve .
